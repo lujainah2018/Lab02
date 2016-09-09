@@ -35,6 +35,6 @@ will compute the mean and median of the file and output the results.
 
 # Requirements
 • You have to use dynamic memory allocation/deallocation. Namely; calloc() and
-free() functions.
+free() functions, or even better realloc().
 
 • The most straightforward way to find a median is to sort the array. We recommend using the Selection Sort algorithm you learned in the lecture (and is covered in the book) to find the median.
