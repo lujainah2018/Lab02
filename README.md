@@ -1,4 +1,4 @@
-# Lab Assignment 1
+# Lab02
 
 In this assignment, you are required to write a program that reads an array of
 integers from file and computes its mean and median.
