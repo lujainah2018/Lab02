@@ -33,6 +33,18 @@ compare your results.
 
 will compute the mean and median of the file and output the results.
 
+# Compile
+• Compile array_gen.c
+
+```
+gcc array_gen.c -o array_gen
+```
+• Compile mean_median.h, mean_median.c main.c
+
+```
+gcc mean_median.h mean_median.c main.c -o mean_median
+```
+
 # Requirements
 • You have to use dynamic memory allocation/deallocation. Namely; calloc() and
 free() functions, or even better realloc().
