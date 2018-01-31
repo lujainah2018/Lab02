@@ -1,6 +1,6 @@
 #ifndef MEAN_MEDIAN_H
 #define MEAN_MEDIAN_H
-
+#include <stdio.h>
 /**
  * Sort integer array A of size n using Selection Sort
  */
