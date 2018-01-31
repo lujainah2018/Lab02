@@ -33,6 +33,9 @@ compare your results.
 
 will compute the mean and median of the file and output the results.
 
+# Selection Sort
+• https://www.geeksforgeeks.org/selection-sort/
+
 # Compile
 • Compile array_gen.c
 
